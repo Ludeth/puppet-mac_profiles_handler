@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.trusourcelabs.NoMAD</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>ADDomain</key>
+								<string>cardinalhealth.net</string>
+								<key>KerberosRealm</key>
+								<string>CARDINALHEALTH.NET</string>
+								<key>RenewTickets</key>
+								<string>1</string>
+								<key>SecondsToRenew</key>
+								<string>7200</string>
+								<key>ShowHome</key>
+								<string>0</string>
+								<key>Template</key>
+								<string>CAHUser</string>
+								<key>UseKeychain</key>
+								<string>1</string>
+								<key>UserAging</key>
+								<string>0</string>
+								<key>Verbose</key>
+								<string>0</string>
+								<key>x509CA</key>
+								<string>wpoh0019certi01.cardinalhealth.net</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Custom</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>DF29D034-0EF2-4345-B058-B22142D2B80C</string>
+			<key>PayloadOrganization</key>
+			<string>Joel Rennich</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>DF29D034-0EF2-4345-B058-B22142D2B80C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>CAH Settings for NoMAD</string>
+	<key>PayloadDisplayName</key>
+	<string>CAH Settings for NoMAD</string>
+	<key>PayloadEnabled</key>
+	<true/>
+	<key>PayloadIdentifier</key>
+	<string>com.cardinalhealth.eit.nomad</string>
+	<key>PayloadOrganization</key>
+	<string>Cardinal Health</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>AB1E2C6B-05C3-406A-92D0-88DCAA585D4E</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

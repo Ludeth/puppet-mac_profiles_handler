@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>GKFeatureAccountModificationAllowed</key>
+			<false/>
+			<key>GKFeatureAddingGameCenterFriendsAllowed</key>
+			<false/>
+			<key>GKFeatureGameCenterAllowed</key>
+			<false/>
+			<key>GKFeatureMultiplayerGamingAllowed</key>
+			<false/>
+			<key>PayloadDisplayName</key>
+			<string>Game Center</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.mtoh001profile.stg.cardinalhealth.net.f0e715e0-75f7-0134-f6b0-109add54a944.alacarte.macosxrestrictions.6db9a3b0-75f9-0134-f6b1-109add54a944.gamed</string>
+			<key>PayloadType</key>
+			<string>com.apple.gamed</string>
+			<key>PayloadUUID</key>
+			<string>0b763ffb-4417-9bc8-dcf2-041ef1d26b62</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.mtoh001profile.stg.cardinalhealth.net.f0e715e0-75f7-0134-f6b0-109add54a944.alacarte.macosxrestrictions.6db9a3b0-75f9-0134-f6b1-109add54a944.applicationaccess</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>183ae7f5-2e19-4de8-c3aa-8f8f34fc8048</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowCloudAddressBook</key>
+			<true/>
+			<key>allowCloudBookmarks</key>
+			<true/>
+			<key>allowCloudCalendar</key>
+			<true/>
+			<key>allowCloudDocumentSync</key>
+			<false/>
+			<key>allowCloudKeychainSync</key>
+			<true/>
+			<key>allowCloudMail</key>
+			<true/>
+			<key>allowCloudNotes</key>
+			<true/>
+			<key>allowCloudReminders</key>
+			<true/>
+			<key>allowMusicService</key>
+			<true/>
+			<key>allowSpotlightInternetResults</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>DisableUsingiCloudPassword</key>
+			<true/>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.mtoh001profile.stg.cardinalhealth.net.f0e715e0-75f7-0134-f6b0-109add54a944.alacarte.macosxrestrictions.6db9a3b0-75f9-0134-f6b1-109add54a944.users</string>
+			<key>PayloadType</key>
+			<string>com.apple.preferences.users</string>
+			<key>PayloadUUID</key>
+			<string>ee6551e3-dd51-447e-4e10-d1401102094f</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Sierra iCloud Settings</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.mdm.mtoh001profile.stg.cardinalhealth.net.f0e715e0-75f7-0134-f6b0-109add54a944.alacarte</string>
+	<key>PayloadOrganization</key>
+	<string>Cardinal Health</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>f0e715e0-75f7-0134-f6b0-109add54a944</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
