@@ -24,6 +24,8 @@
 								<string>7200</string>
 								<key>ShowHome</key>
 								<string>0</string>
+                                <key>SyncLocalPassword</key>
+                                <string>1</string>
 								<key>Template</key>
 								<string>CAHUser</string>
 								<key>UseKeychain</key>
