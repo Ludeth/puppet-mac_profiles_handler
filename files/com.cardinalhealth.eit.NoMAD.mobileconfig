@@ -34,7 +34,7 @@
 								<string>0</string>
 								<key>LocalPasswordSync</key>
 								<string>true</string>
-								<key>x509CA</key>
+								<key>X509CA</key>
 								<string>wpoh0019certi01.cardinalhealth.net</string>
 							</dict>
 						</dict>
