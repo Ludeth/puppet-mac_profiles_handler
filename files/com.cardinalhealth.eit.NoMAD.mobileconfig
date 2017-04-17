@@ -19,32 +19,59 @@
 								<key>KerberosRealm</key>
 								<string>CARDINALHEALTH.NET</string>
 								<key>RenewTickets</key>
-								<string>1</string>
+								<true/>
 								<key>SecondsToRenew</key>
 								<string>7200</string>
-								<key>ShowHome</key>
-								<string>0</string>
 								<key>Template</key>
 								<string>CAHUser</string>
 								<key>UseKeychain</key>
-								<string>1</string>
+								<true/>
 								<key>UserAging</key>
 								<string>0</string>
 								<key>Verbose</key>
-								<string>0</string>
+								<false/>
 								<key>LocalPasswordSync</key>
-								<string>true</string>
+								<true/>
 								<key>X509CA</key>
 								<string>wpoh0019certi01.cardinalhealth.net</string>
+								<key>ConfigureChrome</key>
+								<true/>
+								<key>GetCertAutomatically</key>
+								<true/>
+								<key>GetHelpOptions</key>
+								<string>https://cardinal.service-now.com</string>
+								<key>GetHelpType</key>
+								<string>URL</string>
+								<key>HideQuit</key>
+								<true/>
+								<key>LoginItem</key>
+								<true/>
+								<key>PasswordPolicy</key>
+								<dict>
+									<key>minLength</key>
+									<string>8</string>
+									<key>minLowerCase</key>
+									<string>2</string>
+									<key>minNumber</key>
+									<string>1</string>
+									<key>munUpperCase</key>
+									<string>1</string>
+									<key>minMatches</key>
+									<string>3</string>
+								</dict>
+								<key>SelfServicePath</key>
+								<string>"/Applications/Managed Software Update.app"</string>
+								<key>ShowHome</key>
+								<true/>
 							</dict>
 						</dict>
 					</array>
 				</dict>
 			</dict>
 			<key>PayloadDescription</key>
-			<string></string>
+			<string>CAH Settings for NoMAD</string>
 			<key>PayloadDisplayName</key>
-			<string>Custom</string>
+			<string>CAH Settings for NoMAD</string>
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
