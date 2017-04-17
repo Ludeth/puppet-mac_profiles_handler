@@ -37,7 +37,7 @@
 	<key>PayloadDisplayName</key>
 	<string>Cardinal Login Items</string>
 	<key>PayloadIdentifier</key>
-	<string>com.apple.mdm.mtoh001profile.stg.cardinalhealth.net.aa46a1a0-8463-0134-f6d4-109add54a944.alacarte</string>
+	<string>com.cardinalhealth.eit.loginitems</string>
 	<key>PayloadOrganization</key>
 	<string>Cardinal Health</string>
 	<key>PayloadRemovalDisallowed</key>

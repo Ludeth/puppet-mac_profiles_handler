@@ -18,7 +18,7 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.mdm.mtoh001profile.stg.cardinalhealth.net.f0e715e0-75f7-0134-f6b0-109add54a944.alacarte.macosxrestrictions.6db9a3b0-75f9-0134-f6b1-109add54a944.gamed</string>
+			<string>com.cardinalhealth.eit.i</string>
 			<key>PayloadType</key>
 			<string>com.apple.gamed</string>
 			<key>PayloadUUID</key>
@@ -80,7 +80,7 @@
 	<key>PayloadDisplayName</key>
 	<string>Sierra iCloud Settings</string>
 	<key>PayloadIdentifier</key>
-	<string>com.apple.mdm.mtoh001profile.stg.cardinalhealth.net.f0e715e0-75f7-0134-f6b0-109add54a944.alacarte</string>
+	<string>com.cardinalhealth.eit.icloud</string>
 	<key>PayloadOrganization</key>
 	<string>Cardinal Health</string>
 	<key>PayloadRemovalDisallowed</key>

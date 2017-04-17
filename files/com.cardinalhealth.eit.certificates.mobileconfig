@@ -98,7 +98,7 @@
 	<key>PayloadDisplayName</key>
 	<string>Cardinal Health Certificates</string>
 	<key>PayloadIdentifier</key>
-	<string>com.apple.mdm.mtoh001profile.stg.cardinalhealth.net.48884c70-75f7-0134-f6ab-109add54a944.alacarte</string>
+	<string>com.cardinalhealth.eit.certificates</string>
 	<key>PayloadOrganization</key>
 	<string>Cardinal Health</string>
 	<key>PayloadRemovalDisallowed</key>
