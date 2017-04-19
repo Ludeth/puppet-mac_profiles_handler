@@ -60,7 +60,7 @@
 									<string>3</string>
 								</dict>
 								<key>SelfServicePath</key>
-								<string>"/Applications/Managed Software Update.app"</string>
+								<string>/Applications/Managed Software Update.app</string>
 								<key>ShowHome</key>
 								<true/>
 							</dict>
